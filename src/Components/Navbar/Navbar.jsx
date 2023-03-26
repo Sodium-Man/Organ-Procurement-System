@@ -43,10 +43,10 @@ const Navbar = () => {
           </li>
 
           <button className='btn'>
-            <a href="#">LOGIN</a>
-          </button>
-        </ul>
-
+              <Link to='/login'>LOGIN</Link>
+            </button>
+          </ul>
+          
         <div onClick={removeNavbar}
         className="closeNavbar">
           <AiFillCloseCircle className='icon'/></div>
