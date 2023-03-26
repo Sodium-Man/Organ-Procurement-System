@@ -1,4 +1,5 @@
-import React, {useState} from 'react'
+import React, { useState } from 'react'
+import { Link } from 'react-router-dom'
 import './navbar.css'
 import {GiHeartOrgan} from 'react-icons/gi'
 import {AiFillCloseCircle} from 'react-icons/ai'
@@ -42,9 +43,9 @@ const Navbar = () => {
           </li>
 
           <button className='btn'>
-            <a href="#">LOGIN</a>
-          </button>
-        </ul>
+              <Link to='/login'>LOGIN</Link>
+            </button>
+          </ul>
 
         <div onClick={removeNavbar}
         className="closeNavbar">
