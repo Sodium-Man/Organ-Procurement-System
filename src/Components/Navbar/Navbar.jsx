@@ -43,9 +43,9 @@ const Navbar = () => {
           </li>
 
           <button className='btn'>
-              <Link to='/login'>LOGIN</Link>
-            </button>
-          </ul>
+            <a href="#">LOGIN</a>
+          </button>
+        </ul>
 
         <div onClick={removeNavbar}
         className="closeNavbar">

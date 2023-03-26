@@ -7,8 +7,6 @@ import LoginPage from './Components/LoginPage/LoginPage'
 import Main from './Components/Main/Main'
 import Footer from './Components/Footer/Footer'
 
-
-
 const App = () => {
   return (
     <BrowserRouter>
