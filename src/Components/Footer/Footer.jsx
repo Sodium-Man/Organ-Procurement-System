@@ -39,7 +39,7 @@ const Footer = () => {
             </div>
 
             <div className="footerParagrph">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. At expedita dignissimos earum, sapiente, placeat vero corrupti quasi dolorum cumque minima maiores beatae minus repellat eaque ea. Fugiat doloribus vero repellendus!
+            The Organ Procurement System (OPS) is a unique public partnership that links all hospitals involved in the Indian donation and transplantation system. 
             </div>
 
             <div className="footerSocials flex">
@@ -52,32 +52,32 @@ const Footer = () => {
           <div className="footerLinks grid">
                <div className="linkGroup">
                 <span className="groupTitle">
-                  OUR AGENCY
+                  SITE MAP
                 </span>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Services
+                  Home
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Insurance
+                  About
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Agency
+                  Transplant
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Tourism
+                  Contact
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Payment
+                  Login
                 </li>
 
                </div>
@@ -86,32 +86,32 @@ const Footer = () => {
           <div className="footerLinks grid">
                <div className="linkGroup">
                 <span className="groupTitle">
-                  PARTNERS
+                  GET INVOLVED
                 </span>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Booking
+                  Research
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  RentalCar
+                  Careers
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  HostelWrold
+                  Public 
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Trivago
+                  Ambassadors
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  TripAdvisor
+                  Research
                 </li>
 
                </div>
@@ -120,39 +120,39 @@ const Footer = () => {
           <div className="footerLinks grid">
                <div className="linkGroup">
                 <span className="groupTitle">
-                  PARTNERS
+                  CITIES
                 </span>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  London
+                  Mumbai
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Califormnia
+                  Thane
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                 Indonesia
+                 Pune
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Europe
+                  Nagpur
                 </li>
 
                 <li className="footerList flex">
                   <FiChevronRight className='icon'/>
-                  Ocenia
+                  Nashik
                 </li>
 
                </div>
           </div>
           </div>
           <div className="footerDiv flex">
-            <small>BEST TRAVEL WEBSITE THEME</small>
+            <small>ORGAN PROCUREMENT SYSTEM</small>
             <small>COPYRIGHTS RESERVED - OPS 2023</small>
           </div>
         </div>

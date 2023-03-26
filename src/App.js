@@ -6,6 +6,7 @@ import Main from './Components/Main/Main'
 import Footer from './Components/Footer/Footer'
 
 
+
 const App = () => {
   return (
     <>
@@ -14,7 +15,8 @@ const App = () => {
     {/*<Main/>*/}
     <Footer/> 
     </>
-   
+
+    
   )
 }
 
